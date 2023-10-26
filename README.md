@@ -19,6 +19,8 @@ Learn more about the project:
 
 [Wiki](https://github.com/ardanlabs/service/wiki) | [Course Outline](https://github.com/ardanlabs/service/wiki/course-outline) | [Class Schedule](https://www.eventbrite.com/o/ardan-labs-7092394651)
 
+
+abcdefgghjkl;';lkjhghfdgsfedrytfyguhioiuytreswedrfghjklkhgtydrestfyghjklm,;.
 ## Licensing
 
 ```
